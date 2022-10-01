@@ -1,359 +1,230 @@
 {
   "1": {
-    "Shoubu": "Shobu"
+    "ショウブ": "Shobu"
   },
   "2": {
-    "Misuku・Dogu": "MiscDog"
+    "ミスク・ドグ": "MiscDog"
   },
   "3": {
-    "Kurisutanore": "Crystal"
+    "クリスタノレ": "Crystal"
   },
   "4": {
-    "Aban": "Avan"
+    "アバン": "Avan"
   },
   "5": {
-    "Ekusarin": "Exalin"
+    "エクサリン": "Exalin"
   },
   "6": {
-    "Dorako": "Draco"
+    "ドラコ": "Draco"
   },
   "7": {
-    "N'Uichi": "Nuichi"
+    "んういち": "Nuichi"
   },
   "8": {
-    "Arou": "Arrow"
+    "アロゥ": "Arrow"
   },
   "9": {
-    "Kaaru": "Carl"
+    "カール": "Carl"
   },
   "10": {
-    "Miruku": "Milk"
+    "みるく": "Milk"
   },
   "11": {
-    "Raian・Mo": "RyanMolina"
+    "ライアン・モ": "RyanMolina"
   },
   "12": {
-    "Kurisu": "Chris"
+    "クリス": "Chris"
   },
   "13": {
-    "Supafamu": "SuperFirm"
+    "くりす": "Chris"
   },
   "14": {
-    "Arukiga": "Arquiga"
+    "スーパファム": "Superfam"
   },
   "15": {
-    "Mairo": "Milo"
+    "リトルファム": "Littlefam"
   },
   "16": {
-    "Seibaa": "Saber"
+    "アルキガ": "Arquiga"
   },
   "17": {
-    "Zeesu": "Zaes"
+    "マイロ": "Milo"
   },
   "18": {
-    "Shoon": "Sean"
+    "セイバー": "Saber"
   },
   "19": {
-    "Erisutan": "Ellistan"
+    "ゼース": "Zaes"
   },
   "20": {
-    "Juuru": "Jules"
+    "ショーン": "Sean"
   },
   "21": {
-    "Goorudozefu": "Gold Zeph"
+    "エリスタン": "Ellistan"
   },
   "22": {
-    "Merodii": "Melody"
+    "ジュール": "Jules"
   },
   "23": {
-    "Sesu": "Seth"
+    "ゴールドゼフ": "Gold Zeph"
   },
   "24": {
-    "Erii": "Ellie"
+    "メロディー": "Melody"
   },
   "25": {
-    "Debin": "Devin"
+    "セス": "Seth"
   },
   "26": {
-    "Gaburiso": "Gabriso"
+    "エリー": "Ellie"
   },
   "27": {
-    "Fureemu": "Flame"
+    "デビン": "Devin"
   },
   "28": {
-    "Mekishiko": "Mexico"
+    "ガブリソ": "Gabriso"
   },
   "29": {
-    "Moondei": "Monday"
+    "フレーム": "Flame"
   },
   "30": {
-    "Makkusu": "Max"
+    "メキシコ": "Mexico"
   },
   "31": {
-    "Dessuru": "Destle"
+    "モーンデイ": "Monday"
   },
   "32": {
-    "Finrii": "Finnley"
+    "マックス": "Max"
   },
   "33": {
-    "Surippu": "Slip"
+    "デッスル": "Destle"
   },
   "34": {
-    "Yuuki": "Yuki"
+    "フィンリー": "Finnley"
   },
   "35": {
-    "Anrushia": "Anlucia"
+    "スリップ": "Slip"
   },
   "36": {
-    "Asubaru": "Asbal"
+    "ゆぅき": "Yuki"
   },
   "37": {
-    "Yushuka": "Yushka"
+    "アンルシア": "Anlucia"
   },
   "38": {
-    "Kuaado": "Quard"
+    "アスバル": "Asbal"
   },
   "39": {
-    "Vareria": "Valeria"
+    "ユシュカ": "Yushka"
   },
   "40": {
-    "Hisutorika": "Historica"
+    "クオード": "Quard"
   },
   "41": {
-    "Iruusha": "Irusha"
+    "ヴァレリア": "Valeria"
   },
   "42": {
-    "Padore": "Padre"
+    "ヒストリカ": "Historica"
   },
   "43": {
-    "Yuuraiza": "Yuliza"
+    "イルーシャ": "Irusha"
   },
   "44": {
-    "Lada・Gaato": "Lada Gart"
+    "パドレ": "Padre"
   },
   "45": {
-    "Hakuoo": "Hakuo"
+    "ユーライザ": "Yuliza"
   },
   "46": {
-    "Mereaade": "Mereade"
+    "ラダ・ガート": "Lada Gart"
   },
   "47": {
-    "Shinamon": "Cinnamon"
+    "ハクオウ": "Hakuo"
   },
   "48": {
-    "Kazurion": "Kazrion"
+    "メレアーデ": "Mereade"
   },
   "49": {
-    "Reekussu": "Lex"
+    "ミラン": "Milan"
   },
   "50": {
-    "Maike": "Mike"
+    "フランジュ": "Frange"
   },
   "51": {
-    "Meron": "Melon"
+    "アイゼル": "Eisel"
   },
   "52": {
-    "Popii": "Poppy"
+    "クラウン": "Crown"
   },
   "53": {
-    "Chiizunattsu": "CheeseNuts"
+    "リソル": "Resol"
   },
   "54": {
-    "Poppu": "Popp"
+    "ラピス": "Lapis"
   },
   "55": {
-    "Saabaa01": "Server 01"
+    "シナモン": "Cinnamon"
   },
   "56": {
-    "Saabaa02": "Server 02"
+    "カズリオン": "Kazrion"
   },
   "57": {
-    "Saabaa03": "Server 03"
+    "レックス": "Lex"
   },
   "58": {
-    "Saabaa04": "Server 04"
+    "マイク": "Mike"
   },
   "59": {
-    "Saabaa05": "Server 05"
+    "メロン": "Melon"
   },
   "60": {
-    "Saabaa06": "Server 06"
+    "ポピー": "Poppy"
   },
   "61": {
-    "Saabaa07": "Server 07"
+    "チィズナツ": "CheeseNuts"
   },
   "62": {
-    "Saabaa08": "Server 08"
+    "ポップ": "Popp"
   },
   "63": {
-    "Saabaa09": "Server 09"
+    "ゼッポレ": "Zeppole"
   },
   "64": {
-    "Saabaa1": "Server 01"
+    "テディ": "Teddy"
   },
   "65": {
-    "Saabaa2": "Server 02"
+    "エルジュ": "Erju"
   },
   "66": {
-    "Saabaa3": "Server 03"
+    "スープ": "Soup"
   },
   "67": {
-    "Saabaa4": "Server 04"
+    "セレス": "Celes"
   },
   "68": {
-    "Saabaa5": "Server 05"
+    "セレスト": "Celeste"
   },
   "69": {
-    "Saabaa6": "Server 06"
+    "ジャンクロド": "JeanClaude"
   },
   "70": {
-    "Saabaa7": "Server 07"
+    "スワグ": "Swag"
   },
   "71": {
-    "Saabaa8": "Server 08"
+    "パーシげル": "Percigel"
   },
   "72": {
-    "Saabaa9": "Server 09"
+    "グロックヌー": "Glocktar"
   },
   "73": {
-    "Saabaa10": "Server 10"
+    "セラニー": "Serany"
   },
   "74": {
-    "Saabaa11": "Server 11"
+    "ルナ": "Luna"
   },
   "75": {
-    "Saabaa12": "Server 12"
+    "ベァ・ハンズ": "Bear.Hands"
   },
-  "77": {
-    "Saabaa13": "Server 13"
-  },
-  "78": {
-    "Saabaa14": "Server 14"
-  },
-  "79": {
-    "Saabaa15": "Server 15"
-  },
-  "80": {
-    "Saabaa16": "Server 16"
-  },
-  "81": {
-    "Saabaa17": "Server 17"
-  },
-  "82": {
-    "Saabaa18": "Server 18"
-  },
-  "83": {
-    "Saabaa19": "Server 19"
-  },
-  "84": {
-    "Saabaa20": "Server 20"
-  },
-  "85": {
-    "Saabaa21": "Server 21"
-  },
-  "86": {
-    "Saabaa22": "Server 22"
-  },
-  "87": {
-    "Saabaa23": "Server 23"
-  },
-  "88": {
-    "Saabaa24": "Server 24"
-  },
-  "89": {
-    "Saabaa25": "Server 25"
-  },
-  "90": {
-    "Saabaa26": "Server 26"
-  },
-  "91": {
-    "Saabaa27": "Server 27"
-  },
-  "92": {
-    "Saabaa28": "Server 28"
-  },
-  "93": {
-    "Saabaa29": "Server 29"
-  },
-  "94": {
-    "Saabaa30": "Server 30"
-  },
-  "95": {
-    "Saabaa31": "Server 31"
-  },
-  "96": {
-    "Saabaa32": "Server 32"
-  },
-  "97": {
-    "Saabaa33": "Server 33"
-  },
-  "98": {
-    "Saabaa34": "Server 34"
-  },
-  "99": {
-    "Saabaa35": "Server 35"
-  },
-  "100": {
-    "Saabaa36": "Server 36"
-  },
-  "101": {
-    "Saabaa37": "Server 37"
-  },
-  "102": {
-    "Saabaa38": "Server 38"
-  },
-  "103": {
-    "Saabaa39": "Server 39"
-  },
-  "104": {
-    "Saabaa40": "Server 40"
-  },
-  "105": {
-    "Pureieria": "Play Area"
-  },
-  "106": {
-    "Kajino": "Casino"
-  },
-  "107": {
-    "Zeppore": "Zeppole"
-  },
-  "108": {
-    "Tedi": "Teddy"
-  },
-  "109": {
-    "Eruju": "Erju"
-  },
-  "110": {
-    "Suupu": "Soup"
-  },
-  "111": {
-    "Seresu": "Celes"
-  },
-  "112": {
-    "Seresuto": "Celeste"
-  },
-  "113": {
-    "Jankurodo": "JeanClaude"
-  },
-  "114": {
-    "suwagu": "Swag"
-  },
-  "115": {
-    "Paashigeru": "Percigel"
-  },
-  "116": {
-    "Gurokkunuu": "Glocktar"
-  },
-  "117": {
-    "Seranii": "Serany"
-  },
-  "118": {
-    "Runa": "Luna"
-  },
-  "119": {
-    "Bea・Hanzu": "Bear.Hands"
-  },
-  "120": {
-    "Kaosu": "Chaos"
+  "74": {
+    "ジェニー": "Jenny"
   }
 }
