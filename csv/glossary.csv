@@ -10399,7 +10399,6 @@ SPアイテム,Skill Pt Items
 不思議の魔塔,Mysterious Tower
 ブルーマリッジ島,Blue Marriage Island
 冥府,Hell
-テスト,Test
 白霜の流氷野,Frosty Ice Field
 クレーター地帯,Crater Zone
 ムーンキャロット王国,Moon Carrot Kingdom
@@ -10417,8 +10416,8 @@ SPアイテム,Skill Pt Items
 ピラミッド第八の霊廟,Pyramid Tomb 8
 ピラミッド第九の霊廟,Pyramid Tomb 9
 ピラミッド霊廟,Pyramid Tomb
-ムストの町・地下,Town of Must Underground
-神獣の森,Beast God Forest
+ムストの町・地下,Town of Must underground
+神獣の森,Divine Forest
 楽園へ至る間,The Way to Utopia
 楽園,Utopia
 冥闇の聖塔,Dark Tower
@@ -10449,9 +10448,9 @@ SPアイテム,Skill Pt Items
 封剣の門・三獄,Sealed Prison III
 赤柱の間・二獄,Red Pillar Prison 2
 赤柱の間・三獄,Red Pillar Prison 3
-第一本校舎,Main Building
-購買部・食堂,School Shop/Cafe
-武道場,Dojo
+第一本校舎,main building
+購買部・食堂,school shop/cafe
+武道場,dojo
 校庭,campus
 講堂,auditorium
 菜園,vegetable garden
@@ -10643,8 +10642,6 @@ SPアイテム,Skill Pt Items
 ゴダ神殿,Goda Temple
 滅神の獄,God's Prison
 ゴミ処理場,garbage plant
-BGMテスト同期部屋,BGM sync test room
-BGMテストボス部屋,BGM boss test room
 大審門,Demongate
 封剣の門・天獄,Heavenly Gate
 赤柱の間・天獄,Red Pillar Sky Prison
@@ -10715,7 +10712,7 @@ BGMテストボス部屋,BGM boss test room
 万魔の塔・三の災壇,Banma Tower - 3rd Platform
 万魔の塔・二の災壇,Banma Tower - 2nd Platform
 大富豪ルーム,Tycoon Room
-高台の戦場,High Battlefield
+高台の戦場,Battle Plateau
 リシーの洞くつ,Licie Cave
 オウマの研究室,Ouma's laboratory
 真っ赤な洞くつ,Bright Red Cave
@@ -10724,7 +10721,7 @@ BGMテストボス部屋,BGM boss test room
 ゼクレス城・テラス,Zechres Castle - Terrace
 ゼクレス城・礼典の間,Zechres Castle - Ritual Room
 朽ちた霊廟,Decaying Tomb
-魔空の調練場,Sky TrainingGround
+魔空の調練場,Demon Training
 未完のラゼアの風穴,Undone Lazea Wind Cave
 未完のモンセロ温泉峡,Undone Moncello Spring Gorge
 未完の風穴の研究室,Undone Windy Cave Lab
@@ -11997,7 +11994,7 @@ BGMテストボス部屋,BGM boss test room
 黄昏呪術店,Magic Shop
 ナジーンの部屋,Nazine's room
 ファラザード城・テラス,Farazard Castle - Terrace
-魔瘴塚,Dark Hill
+魔瘴塚,miasmound
 知の試練・第３層,Wisdom Trials - Level 3
 知の試練・第２層,Wisdom Trials - Level 2
 知の試練・第１層,Wisdom Trials - Level 1
@@ -26158,3 +26155,4 @@ Reツリーは白銀に消ゆ,Tree's Disappearance Again
 全滅時の復活場所,resurrection spot
 ルナ,Luna
 すごろく,Sugoroku
+震天王,Heavenshaker
