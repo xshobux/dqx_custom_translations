@@ -4,9 +4,6 @@ import json
 import os
 
 
-DEEPL_API_KEY = os.environ["DEEPL_API_KEY"]
-
-
 def check_glossary():
     with open("csv/glossary.csv", "r", encoding="utf-8") as f:
         glossary = f.read().strip()
@@ -41,10 +38,10 @@ def check_jsons():
 
 
 def check_glossary_upload():
-    if not DEEPL_API_KEY:
+    if not os.environ["DEEPL_API_KEY"]:
         return print("❓  Did not find DEEPL_API_KEY, so unable to test glossary upload.")
 
-    translator = deepl.Translator(DEEPL_API_KEY)
+    translator = deepl.Translator(os.environ["DEEPL_API_KEY"])
 
     with open("csv/glossary.csv", "r", encoding="utf-8-sig") as g_csv:
         contents = g_csv.read()
